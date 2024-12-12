@@ -1,0 +1,4 @@
+[AutoRun]
+OPEN=visor.exe
+ICON=visor.exe
+LABEL=Visor
